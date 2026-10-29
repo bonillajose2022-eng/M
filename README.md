@@ -1,3 +1,9 @@
+## Versión corregida (pantalla vacía)
+
+La aplicación ahora lleva todo el código y el CSS incrustados en `index.html`. Para resolver la pantalla oscura, sustituye el archivo `index.html` de la raíz de tu repositorio de GitHub por este nuevo `index.html`, confirma el commit y recarga la página con Ctrl+Shift+R. No necesitas subir los otros archivos para que funcione; se conservan para mantenimiento.
+
+GitHub Pages: Settings → Pages → Deploy from a branch → main / root.
+
 # THE SECRET CODE — ENGLISH ESCAPE ROOM
 
 **Aspaen Neiva** · Four levels · 16 English missions · Static website for GitHub Pages.
